@@ -1,0 +1,41 @@
+{
+    "explorer.confirmDelete": false,
+    "VSCord.workspaceElapsedTime": true,
+    "git.autofetch": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "terminal.integrated.cursorBlinking": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "html.format.contentUnformatted": "",
+    "editor.fontLigatures": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "eslint.validate": ["javascript"],
+    "editor.fontFamily": "CaskaydiaCove Nerd Font, monospace",
+    "editor.fontSize": 16,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "editor.mouseWheelZoom": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.productIconTheme": "Default",
+    "window.zoomLevel": 1,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.defaultInterpreterPath": "C:\\Users\\kakol\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+}
